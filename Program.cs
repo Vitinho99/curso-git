@@ -30,10 +30,10 @@ namespace Corse_Lista
 
                 list.Add(new Empregado(id, nome, salario));
                 Console.WriteLine();
-                Console.WriteLine("teste");
+                
 
             }
-            Console.WriteLine("Digite o ID do funcionario que terá aumento salarial");
+            Console.WriteLine("Digite o ID do funcionario que terá aumento salarial ");
             int searchId = int.Parse(Console.ReadLine());
 
             Empregado emp = list.Find(x => x.Id == searchId);
