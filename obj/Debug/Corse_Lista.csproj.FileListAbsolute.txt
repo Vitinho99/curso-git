@@ -1,0 +1,6 @@
+C:\Users\vtr_p\source\repos\Corse_Lista\bin\Debug\Corse_Lista.exe.config
+C:\Users\vtr_p\source\repos\Corse_Lista\bin\Debug\Corse_Lista.exe
+C:\Users\vtr_p\source\repos\Corse_Lista\bin\Debug\Corse_Lista.pdb
+C:\Users\vtr_p\source\repos\Corse_Lista\obj\Debug\Corse_Lista.csprojAssemblyReference.cache
+C:\Users\vtr_p\source\repos\Corse_Lista\obj\Debug\Corse_Lista.exe
+C:\Users\vtr_p\source\repos\Corse_Lista\obj\Debug\Corse_Lista.pdb
